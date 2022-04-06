@@ -4,3 +4,5 @@ stcached
 /snapshots
 /vendor
 /badger
+.idea
+stcache
