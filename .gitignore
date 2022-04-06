@@ -1,0 +1,6 @@
+*.log
+stcached
+/blot
+/snapshots
+/vendor
+/badger
